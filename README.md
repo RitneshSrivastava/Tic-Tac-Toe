@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-![Tic Tac Toe Screenshot](Tic Tac toe.jpeg) 
+![Tic Tac toe.jpeg]
 
 A simple and interactive Tic Tac Toe game built with **HTML**, **CSS**, and **JavaScript**. This project demonstrates my skills in front-end development, including DOM manipulation, event handling, and responsive design.
 
